@@ -18,7 +18,7 @@ xing_username: harisyammanda
 # Additional icon links
 additional_links:
 - title: CV
-  icon: images/favicon.ico
+  icon: fa-file-pdf
   url: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -28,7 +28,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/download.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Harisyam and I'm a Data Scientist @ INNIO Jenbacher GmBH. As well as doing forecasting with Deep Learning, I also have experience in data engineering. I really love working in an interactive team.
+  Hi, my name's Harisyam and I'm a Data Scientist @ INNIO Jenbacher GmBh. As well as doing forecasting with Deep Learning, I also have experience in data engineering. I really love working in an interactive team.
 
   I am always motivated to work in various areas of Data science field that will challenge me continuously and allow me to
   use my education, skills and past experiences in a way that is mutually beneficial to myself and
