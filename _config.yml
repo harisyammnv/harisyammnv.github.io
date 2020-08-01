@@ -1,0 +1,82 @@
+# Site
+repository: harisyammnv/harisyammnv.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Harisyam Manda
+title: Data Scientist
+email: harisyam.bphc@gmail.com
+website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  harisyammnv
+linkedin_username: harisyammanda
+xing_username: harisyammanda
+
+# Additional icon links
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/download.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Harisyam and I'm a Data Scientist @ INNIO Jenbacher GmBH. As well as doing forecasting with Deep Learning, I also have experience in data engineering. I really love working in an interactive team.
+
+  I am always motivated to work in various areas of Data science field that will challenge me continuously and allow me to
+  use my education, skills and past experiences in a way that is mutually beneficial to myself and
+  my employer and allow for future growth and career advancement
+
+  I am most skilled in <mark>Python</mark> and very familiar with <mark>AWS Technologies</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
