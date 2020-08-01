@@ -37,7 +37,20 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in <mark>Python</mark> and very familiar with <mark>AWS Technologies</mark>
 
 # Projects Section
-projects_title: _data/projects.yml
+projects_title:
+- layout: left
+  name: RWTH Aachen, Aachen, Germany
+  dates: Oct 2015 - Mar 2018
+  qualification: M.Sc. Computational Engineering
+  Important subjects: Machine Learning, Numerical Methods, Discrete Event Systems
+  description: | # this will include new lines to allow paragraphs
+  During my time at RWTH I had been learning the application of computer science techniques in the field of mechanical enginnering.
+  I had spent most of time developing algorithms for the automotive lab and also teaching MATLAB for various students
+- layout: left
+  name: Birla Institue of Technology and Science, Hyderabad, India
+  dates: Oct 2015 - Mar 2018
+  qualification: M.Sc. Chemistry and B.E Mechanical Engineering
+  description: | # this will include new lines to allow paragraphs
 
 # Experience Section
 experience_title: _data/experience.yml
