@@ -18,7 +18,7 @@ xing_username: harisyammanda
 # Additional icon links
 additional_links:
 - title: CV Link
-  icon: https://github.com/harisyammnv/harisyammnv.github.io/blob/master/images/cv_icon.png
+  icon: https://fontawesome.com/icons/file-pdf?style=solid
   url: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -48,11 +48,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Data Science my other interests and hobbies are:
+   - Bicycling
+   - Volley Ball
+   - Running
+   - Bouldering
 
 # Footer
 footer_show_references: true
