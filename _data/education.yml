@@ -1,5 +1,6 @@
 - layout: left
-  name: RWTH Aachen, Aachen, Germany
+  name: RWTH Aachen
+  location: Aachen, Germany
   dates: Oct 2015 - Mar 2018
   qualification: M.Sc. Computational Engineering
   Important subjects: Machine Learning, Numerical Methods, Discrete Event Systems
@@ -8,8 +9,9 @@
     I had spent most of time developing algorithms for the automotive lab and also teaching MATLAB for various students
 
 - layout: left
-  name: Birla Institue of Technology and Science, Hyderabad, India
-  dates: Oct 2015 - Mar 2018
+  name: BITS Pilani
+  location: Hyderabad, India
+  dates: Aug 2010 - July 2015
   qualification: M.Sc. Chemistry and B.E Mechanical Engineering
   description: | # this will include new lines to allow paragraphs
 
