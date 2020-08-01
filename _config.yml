@@ -37,13 +37,13 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in <mark>Python</mark> and very familiar with <mark>AWS Technologies</mark>
 
 # Projects Section
-projects_title: Projects
+projects_title: _data/projects.yml
 
 # Experience Section
-experience_title: Experience
+experience_title: _data/experience.yml
 
 # Education Section
-educaton_title: Education
+educaton_title: _data/education.yml
 
 # More Section
 # more_title: A Little More About Me
