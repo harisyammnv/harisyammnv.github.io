@@ -5,6 +5,6 @@
   description: | # this will include new lines to allow paragraphs
     I started this project to learn the concepts of <mark> Data Warehousing </mark> using AWS Redshift to basically support the projects at my work.
     I enjoyed the Capstone project from <mark> Udacity </mark> where all the concepts from ETL are thoroughly discussed and were implemented in this
-    project using the Data Orchestration tool <mark> Apache Airflow </mark>
+    project using the Data Orchestration tool <mark> Apache Airflow </mark>.
     I have also learnt data processing using <mark> PySpark Livy API </mark> in this project
-  project-workflow: https://github.com/harisyammnv/DEND_Capstone_Airflow_EMR/blob/master/AWS_Help/architechture.png
+    ![Project Architechture](https://github.com/harisyammnv/DEND_Capstone_Airflow_EMR/blob/master/AWS_Help/architechture.png)
