@@ -50,7 +50,12 @@ projects_title: Projects
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Data Science my other interests and hobbies are:
+- title: Medium posts
+  icon: fa-medium
+  url: https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
+
+  |
+   Alongside my interests in Data Science my hobbies are:
    - Bicycling
    - Volley Ball
    - Running
