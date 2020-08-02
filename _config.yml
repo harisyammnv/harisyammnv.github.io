@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Harisyam Manda
 title: Data Scientist
 email: harisyam.bphc@gmail.com
-website: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf
+
 # Dark Mode (true/false/never)
 darkmode: true
 
@@ -16,13 +16,18 @@ linkedin_username: harisyammanda
 xing_username: harisyammanda
 
 # Additional icon links
+
 additional_links:
+
+- title: CV Link
+  icon: fa-address-card
+  url: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf
+
 - title: Medium posts
   icon: fa-medium
   url: https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+
+
 
 # About Section
 # about_title: About Me (Use this to override about section title)
