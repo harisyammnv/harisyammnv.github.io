@@ -19,11 +19,11 @@
     - We have written a co-authored article in [medium](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20)
 
 - layout: top-middle
-  name: Master Thesis
+  name: Data Science Trainee @ DAIMLER AG, Stuttgart, Germany
   link: github.com/harisyammnv
   github: https://github.com/harisyammnv/MasterArbeit
   description: | # this will include new lines to allow paragraphs
-
-    - I have done my Master thesis @ DAIMLER AG in Stuttgart
-    - I have mostly worked on developing Robust Machine Learning algorithms which would deal with the Noise and Skewness in very large datasets
-    - I have used denoising autoencoders to basically filter out the noise and then used a FNN with single noise layer to eliminate tagert skewness
+    - Developed a robust Machine Learning pipeline for dealing with noise and skewness in very large databases
+    - Implemented a custom Deep Neural Network model comprising of <mark>denoising autoencoders</mark> in PyTorch with python which can deal with the presence of annotation and feature noise together with  skewness in very large data sets
+    - Developed a GUI for process automation of NVH-CAE testing for DAIMLER Trucks using python Qt framework
+    - <mark>Key Achievements:</mark> Various softwares are used by the DAIMLER Trucks Big Data Team for analyzing the root causes of truck damages when used in semi-autonomous mode
