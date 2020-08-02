@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in <mark>Python</mark> and very familiar with <mark>AWS Technologies</mark>
 
-  <mark> Check out my CV [here](https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf) </mark>
+  <mark> Check out my CV: </mark> [here](https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf)
 
 # Education Section
 educaton_title: Education
