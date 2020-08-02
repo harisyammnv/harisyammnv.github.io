@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Harisyam Manda
 title: Data Scientist
 email: harisyam.bphc@gmail.com
-website: [CV Download](https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf)
+website: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf
 # Dark Mode (true/false/never)
 darkmode: true
 
