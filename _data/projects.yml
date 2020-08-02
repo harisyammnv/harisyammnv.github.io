@@ -10,3 +10,27 @@
     I have also learnt data processing using <mark> PySpark Livy API </mark> in this project
 
     ![](https://github.com/harisyammnv/harisyammnv.github.io/blob/master/images/architechture.png)
+
+- layout: top-middle
+  name: PyTorch Scholarship challenge
+  link: github.com/harisyammnv
+  github: https://github.com/harisyammnv/PyTorchChallengeScholarship2018-19
+  description: | # this will include new lines to allow paragraphs
+
+    - I have participated in the Udacity's PyTorch Scholarship Challenge along with my team member -> [Florin](https://github.com/masterflorin)
+    - We had learnt the nuts and bolts of image classification and also worked on different steps of fine tuning our model
+    - We have written a co-authored article in medium
+  icon: fa-medium
+  url: https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
+
+- layout: top-middle
+  name: Master Thesis
+  link: github.com/harisyammnv
+  github: https://github.com/harisyammnv/MasterArbeit
+  description: | # this will include new lines to allow paragraphs
+
+    - I have done my Master thesis @ DAIMLER AG in Stuttgart
+    - I have mostly worked on developing Robust Machine Learning algorithms which would deal with the Noise and Skewness in very large datasets
+    - I have used denoising autoencoders to basically filter out the noise and then used a FNN with single noise layer to eliminate tagert skewness
+
+    ![](https://github.com/harisyammnv/MasterArbeit/blob/master/dnn_auto.PNG)
