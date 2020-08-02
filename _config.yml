@@ -19,7 +19,7 @@ xing_username: harisyammanda
 additional_links:
 - title: CV Link
   icon: fa-file-pdf
-  url: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_cv.pdf
+  url: https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -37,6 +37,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in <mark>Python</mark> and very familiar with <mark>AWS Technologies</mark>
 
+# Education Section
+educaton_title: Education
 
 # Experience Section
 experience_title: Experience
@@ -44,8 +46,6 @@ experience_title: Experience
 # Projects Section
 projects_title: Projects
 
-# Education Section
-educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
