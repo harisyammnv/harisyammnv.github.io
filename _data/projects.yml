@@ -30,5 +30,3 @@
     - I have done my Master thesis @ DAIMLER AG in Stuttgart
     - I have mostly worked on developing Robust Machine Learning algorithms which would deal with the Noise and Skewness in very large datasets
     - I have used denoising autoencoders to basically filter out the noise and then used a FNN with single noise layer to eliminate tagert skewness
-
-    ![](https://github.com/harisyammnv/MasterArbeit/blob/master/dnn_auto.PNG)
