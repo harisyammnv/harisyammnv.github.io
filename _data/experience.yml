@@ -1,8 +1,34 @@
 - layout: left
-  company: INNIO Jenbacher GmBH
+  company: AVL List GmBH
+  link: https://www.avl.com/?groupId=1982862&avlregion=DE&lang=de_AT
+  job_title: Data Scientist
+  dates: July 2021 - Present
+  quote: >
+   Customer Project: Development of a scalable analytics pipeline for classifying vehicles with risk of catalyst failure 
+   Customer: FORD Motors, US
+  description: | # this will include new lines to allow paragraphs
+    - Analyzed **Timeseries** sensor data collected from **10K** vehicles located in North America which was sent by the customer in batches
+    - Optimized and pre-processed the raw data using **Dask** and created partitioned parquet files (**Prefect** Data pipeline)
+    - Performed **aggregations** on the data at scale
+    - Calculated custom KPIs using domain knowledge from Engineering
+    - Built and Trained **XGBoost** model for risk classification
+    - Observed model robustness through **feature engineering** and analyzed performance using metrics such as Precision, Recall
+    - Tuned the model using **skopt** bayesian hyperparameter search
+    - Wrapped the model using **FastAPI** REST endpoints for inference
+    - Deployed the optimized model in an **AWS Lambda** function for active inference and feedback
+    - Developed **Tableau** Dashboards for displaying the results and KPIs to key stakeholders
+  quote: >
+   R&D Project: Development of a scalable analytics pipeline for classifying vehicles with risk of catalyst failure 
+   Customer: FORD Motors, US
+  description: |
+    Reinforcement Learning based Thermal Management for Cabin Heating Mode Selection
+    **Funded by:** [ECSEL FRACTAL](https://fractal-project.eu/), EU Commission
+    - Implementation of **reinforcement learning** based models aimed at improving energy efficiency and reduction of environmental pollutants by having effective heating mode selection for Cabin Thermal Management
+- layout: left
+  company: INNIO Power(previously GE Jenbacher GmBH)
   link: https://www.innio.com/en
   job_title: Data Scientist
-  dates: August 2018 - Present
+  dates: August 2018 - July 2021
   quote: >
    Analyzing Terabyte scale data to deliver deeper insights and find anomalies across the entire fleet of 20K Gas Engines
   description: | # this will include new lines to allow paragraphs
