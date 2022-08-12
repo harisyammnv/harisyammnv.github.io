@@ -17,10 +17,10 @@ xing_username: harisyammanda
 
 # Additional icon links
 
-additional_links:
-- title: Medium posts
-  icon: fa-medium
-  url: https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
+# additional_links:
+# - title: Medium posts
+#   icon: fa-medium
+#   url: https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -37,11 +37,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   <mark> Check out my CV:</mark> [here](https://github.com/harisyammnv/harisyammnv.github.io/raw/master/_data/Harisyam_CV.pdf)
 
-# Education Section
-educaton_title: Education
-
 # Experience Section
 experience_title: Experience
+# Education Section
+educaton_title: Education
 
 # Projects Section
 projects_title: Projects
